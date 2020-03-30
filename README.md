@@ -1,4 +1,4 @@
-# nodejs jwt auth (SignIn & SignUp)
+# [nodejs jwt auth (SignIn & SignUp)](https://cpu8z.sse.codesandbox.io/)
 
 ### Project Setup
 
@@ -15,6 +15,7 @@ jwt_testDB2.sql
 ```bash
 node server.js
 ```
+### [Live Demo](https://cpu8z.sse.codesandbox.io/)
 
 ### Run & Test with Results
 
